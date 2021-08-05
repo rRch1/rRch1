@@ -1,0 +1,158 @@
+/*  font-family: 'Abril Fatface', cursive;
+
+    font-family: 'Josefin Sans', sans-serif;
+
+    font-family: 'Merriweather', serif;     */
+
+
+
+body {
+  margin-left: auto;
+  margin-right: auto;
+  height: 3369px;
+  width: 1278px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #222;
+  
+}
+
+#hero {
+ position: relative;
+  margin-bottom: 50px;
+}
+
+#hero img{
+  width: 100%;
+}
+
+#hero-text {
+  position: absolute;
+  bottom: 40px;
+  left: 280px;
+  font-family: 'Abril Fatface', cursive;
+  display: block;
+  
+}
+
+#hero-text h2 {
+  margin: 0;
+  font-size: 36px;
+}
+
+#hero-text h1 {
+  margin: 0;
+  font-size: 72px;
+}
+
+section {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 55%
+}
+
+.main-text {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+ul {
+  list-style-type: square;
+  font-size: 15px;
+  margin: 30px 10px;
+  
+}
+
+li {
+  margin: 10px 0;
+}
+
+.main-text h2 {
+  text-transform: uppercase;
+  font-size: 26px;
+  margin: 65px 0;
+}
+
+.main-text h3 {
+  font-size: 20px;
+  margin-bottom: 3px;
+  margin-top: 30px;
+ }
+.exp-formal h3 + p {
+  font-style: italic;
+  font-size: 15px;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
+
+#notable p {
+  font-size: 15px;
+  margin: 15px 0;
+}
+
+div figure {
+  font-size: 40px;
+  font-family: 'Abril Fatface', cursive;
+  background-color: #222;
+  color: white;
+}
+
+figure {
+  background-color: #222;
+  font-family: 'Abril Fatface', cursive;
+  color: white;
+  width: 750px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
+
+figure .figure {
+  font-size: 150px;
+  margin: 0;
+  position: absolute;
+  bottom: 55px;
+}
+
+figure #rule-the-galaxy {
+  font-size: 150px;
+  margin: 0;
+  bottom: 0;
+  position: absolute;
+  
+}
+
+blockquote {
+  margin: 0;
+  font-size: 44px;
+  padding: 55px 0 40px 65px;
+}
+
+strong {
+  font-weight: 600;
+}
+
+footer {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: lighter;
+  font-size: 18px;
+}
+
+footer h2 {
+  text-transform: uppercase;
+  margin: 65px 0;
+}
+
+.footer-text {
+  margin-left: 260px;
+}
+
+footer div {
+  border: 2px solid #222;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
